@@ -1,6 +1,20 @@
 # SocketLabs API
 
-## [1.0.12509] 2022-3-8
+## [1.0.13466] 2022-4-5
+
+### Added
+**Simple Sender Features:**
+* Server - Get single Server, server name update
+* Advanced Settings - non-delivery, overage settings, auto Bcc
+* Queue - Count, Detail, Pause & Purge functions
+* Reports - Marketing Mailings
+
+### Changed
+**Simple Sender Features:**
+* Server - Adding Detail to get servers
+
+
+## [1.0.12509] 2023-3-8
 ### Added
 **Complex Sender Features:**
 * Account Engagement Tracking Domains
@@ -22,7 +36,7 @@
   * Inbound Parse Reports (Overview & Detail)
 
 
-## [1.0.12004] 2022-2-15
+## [1.0.12004] 2023-2-15
 ### Added
 **Complex Sender Features:**
 * StreamMonitor - IpPool Reports
@@ -35,7 +49,7 @@
 * Subaccount - Engagement Tracking Default Settings Updates
 
 
-## [1.0.11605] 2022-2-1
+## [1.0.11605] 2023-2-1
 ### Changed
 **Simple Sender Features:**
 * Server Reports - General Maintenance
