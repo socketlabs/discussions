@@ -1,5 +1,16 @@
 # SocketLabs API
 
+## [1.0.14006] 2022-04-26
+### Added
+**Simple Sender Features**
+* Server: Sending IP List
+
+**Complex Sender Features**
+* Subaccount: Sending IP List
+* IP Pool
+  * Sending IP List
+  * Adding Count of Subaccounts processed to IP Pool Response
+  *
 ## [1.0.13466] 2022-4-5
 
 ### Added
