@@ -1,5 +1,20 @@
 # SocketLabs API
 
+## [1.0.14432] 2022-5-10
+
+### Added
+**Simple Sender Features**
+* Reports - Adding Hourly Aggregate to all reports
+
+**Complex Sender Features**
+** Reports - Adding Hourly Aggregate to Sending Overview
+
+### Changed
+**All Account Types**
+* User Management
+  * Add, Edit, Delete User
+  * Update User Preferences
+
 ## [1.0.14006] 2022-04-26
 ### Added
 **Simple Sender Features**
