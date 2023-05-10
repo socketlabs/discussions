@@ -7,7 +7,7 @@
 * Reports - Adding Hourly Aggregate to all reports
 
 **Complex Sender Features**
-** Reports - Adding Hourly Aggregate to Sending Overview
+* Reports - Adding Hourly Aggregate to Sending Overview
 
 ### Changed
 **All Account Types**
