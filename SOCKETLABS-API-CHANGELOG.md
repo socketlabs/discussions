@@ -1,5 +1,94 @@
 # SocketLabs API
 
+## \[1.0.28248\] 2024-09-22
+
+## Added
+### All Account Types
+- Reports
+    - Added Event Date based reporting to all reports. Feature not available for all plans.
+    - Added SuperTag as an aggregate type in all aggregate reports
+- User Management - Ability to modify two factor authentication on behalf of a user by an Account Admin or a User Admin
+    
+### Complex Sender Features
+- Advanced Authentication - Adding assignment of DKIM and Bounce Domains to Subaccounts from the Account.
+- Rule Engine - Adding new rule types, Metadata, Tags, SuperTag. 
+- Domain Management - Adding optional sending domain restrictions. Feature not available for all plans.
+    
+## Changed
+### All Account Types
+- Reports - Added Event Date based reporting to all reports. Feature not available for all plans.
+
+## \[1.0.27085\] 2024-07-18
+
+## Added
+**All Account Types**
+- Reports - Added Tag Filter - filter applies to all overview and aggregate reports.
+
+## Changed
+### Complex Sender Features
+- Subaccount Management - Adding SuperTag Key Management - Adds a new aggregate type in all aggregate reports
+
+### Simple Sender Features
+- Server Management - Adding SuperTag Key Management - Adds a new aggregate type in all aggregate reports
+
+## \[1.0.26034\] 2024-06-06
+
+### Changed
+**All Account Types**
+- Reporting
+    - added functionality to support usage reporting  
+    - Fixed Message Detail Report filter errors for SystemMessageID
+        
+## \[1.0.21140\] 2024-05-08
+
+### Changed
+**All Account Types**
+- Event Webhooks - modified Test Post examples to include the response from the webhook Url
+
+## \[1.0.25130\] 2024-05-03
+
+### Changed
+**All Account Types**
+- Reporting - Added additional performance enhancements
+
+### Added
+**Complex Sender Features**
+- Subaccount StreamMonitor - Added Report by Sending Domain and SuperTag
+
+## \[1.0.21140\] 2024-01-10
+
+### Changed
+**All Account Types**
+- Reports - added 500,000 limits to cvs downloads
+
+### Added
+**Complex Sender Features**
+- Reporting Connectors - Adding connectors for Reporting Subaccounts
+
+## \[1.0.19528\] 2023-11-06
+
+### Added
+**All Account Types**
+- Inbound Webhooks - Adding endpoints to add inbound webhooks on Servers and Subaccounts
+
+## \[1.0.19104\] 2022-11-06
+
+### Changed
+**All Account Types**
+- Reports - Added additional Detail types to message detail reports
+
+## \[1.0.18656\] 2022-10-25
+
+### Changed
+
+**All Account Types**
+- Reports - Additional performance enhancements and bugfixes
+  
+### Added
+
+**Complex Sender Features**
+- IP Pool Queue - Count, Detail, Pause & Purge functions
+
 ## [1.0.14432] 2022-5-10
 
 ### Added
