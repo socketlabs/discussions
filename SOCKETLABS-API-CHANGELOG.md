@@ -1,6 +1,6 @@
 # SocketLabs API
 
-## \[1.0.28248\] 2024-09-22
+## \[1.0.28248\] 2024-08-22
 
 ## Added
 ### All Account Types
