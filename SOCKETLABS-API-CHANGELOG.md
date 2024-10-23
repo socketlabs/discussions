@@ -1,6 +1,41 @@
 # SocketLabs API
+## [1.0.30056] 2024-10-23
+## Added
 
-## \[1.0.28248\] 2024-08-22
+### All Account Types
+
+* User Notifications
+  * Account Admin and Billing roles are enrolled to receive Critical Billing and Suspension notifications. 
+  * Account Point of Contacts are enrolled to receive Critical Billing and Suspension notifications. 
+
+### Self Serve Features
+
+* Servers
+  * Added Multi-SuperTag maintenance 
+
+### Complex Sender Features
+
+* Connectors
+  * Added Multi-SuperTag maintenance for a Reporting Subaccount
+* Reporting Subaccounts
+  * Added Multi-SuperTag maintenance 
+* Advanced Authentication 
+  * Added ability to assign a DKIM record as an Identity DKIM on an IP Pool
+
+## Changed
+
+### Self Serve Features
+
+* Servers
+  * Removing single SuperTag Key from Server Config 
+
+### Complex Sender Features
+
+* Connectors
+  * Removing single SuperTag Key from Connector Config 
+
+
+## [1.0.28248] 2024-08-22
 
 ## Added
 ### All Account Types
@@ -18,7 +53,7 @@
 ### All Account Types
 - Reports - Added Event Date based reporting to all reports. Feature not available for all plans.
 
-## \[1.0.27085\] 2024-07-18
+## [1.0.27085] 2024-07-18
 
 ## Added
 **All Account Types**
