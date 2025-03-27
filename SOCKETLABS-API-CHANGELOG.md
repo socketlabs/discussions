@@ -1,4 +1,11 @@
 # SocketLabs API
+## [1.0.32950] 2025-03-26
+## Added
+
+### All Account Types
+* Reports
+  * All message detail reports are adding a new column named ProcessedTime. Shows the time the at which the message was either delivered or failed.
+
 ## [1.0.30056] 2024-10-23
 ## Added
 
