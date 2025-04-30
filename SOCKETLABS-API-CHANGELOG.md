@@ -1,4 +1,12 @@
 # SocketLabs API
+
+# [1.0.33925] 2025-04-30
+## Added
+
+### Complex Sender Features
+
+- Reporting Connectors - Adding new connector type for Reporting Subaccounts
+
 ## [1.0.32950] 2025-03-26
 ## Added
 
@@ -12,21 +20,21 @@
 ### All Account Types
 
 * User Notifications
-  * Account Admin and Billing roles are enrolled to receive Critical Billing and Suspension notifications. 
-  * Account Point of Contacts are enrolled to receive Critical Billing and Suspension notifications. 
+  * Account Admin and Billing roles are enrolled to receive Critical Billing and Suspension notifications.
+  * Account Point of Contacts are enrolled to receive Critical Billing and Suspension notifications.
 
 ### Self Serve Features
 
 * Servers
-  * Added Multi-SuperTag maintenance 
+  * Added Multi-SuperTag maintenance
 
 ### Complex Sender Features
 
 * Connectors
   * Added Multi-SuperTag maintenance for a Reporting Subaccount
 * Reporting Subaccounts
-  * Added Multi-SuperTag maintenance 
-* Advanced Authentication 
+  * Added Multi-SuperTag maintenance
+* Advanced Authentication
   * Added ability to assign a DKIM record as an Identity DKIM on an IP Pool
 
 ## Changed
@@ -34,12 +42,12 @@
 ### Self Serve Features
 
 * Servers
-  * Removing single SuperTag Key from Server Config 
+  * Removing single SuperTag Key from Server Config
 
 ### Complex Sender Features
 
 * Connectors
-  * Removing single SuperTag Key from Connector Config 
+  * Removing single SuperTag Key from Connector Config
 
 
 ## [1.0.28248] 2024-08-22
@@ -50,12 +58,12 @@
     - Added Event Date based reporting to all reports. Feature not available for all plans.
     - Added SuperTag as an aggregate type in all aggregate reports
 - User Management - Ability to modify two factor authentication on behalf of a user by an Account Admin or a User Admin
-    
+
 ### Complex Sender Features
 - Advanced Authentication - Adding assignment of DKIM and Bounce Domains to Subaccounts from the Account.
-- Rule Engine - Adding new rule types, Metadata, Tags, SuperTag. 
+- Rule Engine - Adding new rule types, Metadata, Tags, SuperTag.
 - Domain Management - Adding optional sending domain restrictions. Feature not available for all plans.
-    
+
 ## Changed
 ### All Account Types
 - Reports - Added Event Date based reporting to all reports. Feature not available for all plans.
@@ -78,9 +86,9 @@
 ### Changed
 **All Account Types**
 - Reporting
-    - added functionality to support usage reporting  
+    - added functionality to support usage reporting
     - Fixed Message Detail Report filter errors for SystemMessageID
-        
+
 ## \[1.0.21140\] 2024-05-08
 
 ### Changed
@@ -125,7 +133,7 @@
 
 **All Account Types**
 - Reports - Additional performance enhancements and bugfixes
-  
+
 ### Added
 
 **Complex Sender Features**
