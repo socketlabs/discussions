@@ -1,11 +1,20 @@
 # SocketLabs API
 
+# [1.0.34555] 2025-05-28
+## Changed
+
+### All Account Types
+
+* Reports
+  * Aggregate Reports - Adding the ability to specify up to 2 aggregate types.
+  * All Reports - Adding additional filter capabilities for additional and/or comparisons with miltiple  condition groupings
+ 
 # [1.0.33925] 2025-04-30
 ## Added
 
 ### Complex Sender Features
 
-- Reporting Connectors - Adding new connector type for Reporting Subaccounts
+* Reporting Connectors - Adding new connector type for Reporting Subaccounts
 
 ## [1.0.32950] 2025-03-26
 ## Added
