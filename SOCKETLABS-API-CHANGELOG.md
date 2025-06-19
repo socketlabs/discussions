@@ -1,5 +1,11 @@
 # SocketLabs API
 
+# [1.0.35103] 2025-06-19
+## Added
+
+### Complex Sender Features
+* Email Relay (Beta) - Ability to forward email to an SMTP
+
 # [1.0.34555] 2025-05-28
 ## Changed
 
