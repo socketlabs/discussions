@@ -1,5 +1,14 @@
 # SocketLabs API
 
+# [1.0.37668] 2025-10-08
+
+## Added
+
+### Complex Sender Features
+* Email Relay - Adding new relay types for Email Relay IP Pools
+* Reporting Connectors - Adding new connector type for Reporting Subaccounts
+
+
 # [1.0.35103] 2025-06-19
 ## Added
 
